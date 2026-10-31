@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Quick Phrase Buttons",
+    "description": "Lays a row of customizable quick-phrase buttons inside the composer's bottom tool row (defaults: continue / plain language / translate to Chinese). One click sends the phrase without touching your draft; the gear edits the count, labels, icons, and sent text."
+  }
+}
