@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-quick-resume",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": false,
   "description": "A row of quick-phrase buttons in the DSH composer: one click sends a saved phrase (default 请继续) so a stalled agent keeps working; buttons, labels, icons, and phrases are editable in place.",
   "type": "module",
